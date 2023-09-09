@@ -1,5 +1,8 @@
 # Neural Network Implementation from Scratch
 
+![](pic.gif)
+
+
 ![](pic.png)
 
 ---
