@@ -1,7 +1,6 @@
 # Neural Network Implementation from Scratch
 
-![](pic.gif)
-
+<img src="pic.gif" alt="Image Description" width="600"/>
 
 ![](pic.png)
 
