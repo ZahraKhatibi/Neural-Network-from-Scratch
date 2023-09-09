@@ -1,5 +1,8 @@
 # Neural Network Implementation from Scratch
 
+![](pic.png)
+
+---
 This project implements a simple 3-layer neural network for binary classification tasks. The network architecture consists of an input layer, one hidden layer, and an output layer. The activation function used in the hidden layer is the hyperbolic tangent (tanh) function, and the output layer uses the softmax activation for multiclass classification.
 
 ## Project Goals
